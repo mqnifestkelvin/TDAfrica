@@ -10,15 +10,3 @@
 ```
 def my_name():
 	print(Manifest Chakalov)
-
-```
-=======
-"""
-gcc -o *.c
-"""
->>>>>>> parent of a4a615d... added gcc instruction code
-=======
-"""
-gcc -o *.c
-"""
->>>>>>> parent of a4a615d... added gcc instruction code
