@@ -5,8 +5,6 @@
 ##### This is the fifth heading
 ###### This is the sixth heading
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 ```
 def my_name():
 	print(Manifest Chakalov)
