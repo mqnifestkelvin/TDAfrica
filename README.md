@@ -6,6 +6,7 @@
 ###### This is the sixth heading
 
 ```
-gcc -o *.c
+def my_name():
+	print(Manifest Chakalov)
 
 ```
