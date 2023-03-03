@@ -4,3 +4,7 @@
 #### This is the forth heading
 ##### This is the fifth heading
 ###### This is the sixth heading
+
+"""
+gcc -o *.c
+"""
